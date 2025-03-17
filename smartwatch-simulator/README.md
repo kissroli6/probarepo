@@ -11,8 +11,8 @@ This project simulates a smartwatch with two sensors: a heart rate sensor and a 
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/smartwatch-simulator.git
+   ```sh
+   git clone https://github.com/kissroli6/probarepo.git
    ```
 2. Navigate to the project directory:
    ```
